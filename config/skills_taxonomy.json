@@ -1,0 +1,6 @@
+{
+  "languages": ["python", "java", "c#", "javascript"],
+  "frameworks": ["react", ".net", "spring"],
+  "cloud": ["aws", "azure", "gcp"],
+  "tools": ["docker", "kubernetes", "git"]
+}
