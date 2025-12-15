@@ -1,4 +1,4 @@
-from abc import abc, abstractmethod
+from abc import ABC, abstractmethod
 
 class BaseJobClient(ABC):
     @abstractmethod
