@@ -9,4 +9,5 @@ class JobPosting(BaseModel):
     company: Optional[str]
     location: Optional[str]
     description: str
+    requirements_text: Optional[str] = None
     date_posted: Optional[datetime]
