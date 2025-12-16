@@ -20,5 +20,9 @@ def main():
         print(job.location)
         print("-" * 40)
 
+    job = normalized[0]
+    print("---- REQUIREMENTS ----")
+    print(job.requirements_text[:500])
+
 if __name__ == "__main__":
     main()
